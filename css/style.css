@@ -1,0 +1,100 @@
+body {
+    background-color: rgba(135, 206, 250, 0.5);
+}
+
+#square {
+    width: 310px;
+    height: 1200px;
+    background: rgba(30,144,255);
+    margin-top: -8px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+}
+
+#circle {
+    width: 258px;
+    height: 258px;
+    background: rgba(0,0,128);
+    border-radius: 50%;
+    margin-left: 26px;
+
+}
+
+
+.roboto-medium {
+    margin-left: 26px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    font-size: 20px;
+}
+
+.roboto-regular {
+  margin-left: 26px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 20px;
+}
+
+#right-text {
+    position: absolute;
+    left: 357px; 
+    top: 0;
+}
+
+.roboto-mediumm {
+    font-family: "Roboto", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    color: black;
+    font-size: 48px;
+}
+
+.textone {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: black;
+  font-size: 16px;
+
+}
+
+.texttwo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+.hgh {
+    margin-top: 20px;
+}
+
+.minusone {
+    margin-top: -25px;
+}
+
+.minustwo {
+    margin-top: 25px;
+}
+
+.www {
+    color: gray;
+    font-weight: 350;
+}
+
+.point {
+    margin-left: -20px;
+}
+
+.linia {
+    margin-left: 26px;
+}
+
+.text {
+    font-weight: 700;
+}
