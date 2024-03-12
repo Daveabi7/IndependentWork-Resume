@@ -72,6 +72,21 @@ body {
 
 .hgh {
     margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.img-fluid.rounded-circle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.colorr {
+	background: rgba(30,144,255);
+}
+
+.enter {
+	margin-bottom: 190px;
 }
 
 .minusone {
@@ -89,10 +104,6 @@ body {
 
 .point {
     margin-left: -20px;
-}
-
-.linia {
-    margin-left: 26px;
 }
 
 .text {
